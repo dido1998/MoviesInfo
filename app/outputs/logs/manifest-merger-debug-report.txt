@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:7:5-39:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mahe\.android\build-cache\c1e86f783b654e2d427fc18487bb12eca730fdd0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mahe\.android\build-cache\b64ac7cd5f44e95a4ce407dd4b5880489ec41c2b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mahe\.android\build-cache\bc691169cfd97fe03563fb96f172ca047c0fad41\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahe\.android\build-cache\d5a1e22cbf311e059d3ae524954ebac29c765860\output\AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mahe\.android\build-cache\32f21ec938ecfcda6484f909ef2d00c602bbf262\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mahe\.android\build-cache\fd459f8b00adfbc2ee1717a7546def31bf7c64db\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mahe\.android\build-cache\2aa7a6a9743b0a2015959a19944d8f65cd0881eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mahe\.android\build-cache\40552a4f1b079d578a2e71dda6a8cb485a1167fd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mahe\.android\build-cache\b9c56aa3d09800cb0eaad84e969d2c6722c3884a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mahe\.android\build-cache\3ba2401759b3638cb835b08d7844ccecdb56a4a6\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.mahe.moviesinfo.MainActivity
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:18:27-74
+provider#com.example.mahe.moviesinfo.Provider.MoviesProvider
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:22:9-25:40
+	android:authorities
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:24:13-62
+	android:exported
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:23:13-52
+service#com.example.mahe.moviesinfo.Insert.InsertDataService
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:28:13-53
+service#com.example.mahe.moviesinfo.Insert.MovieJobService
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:30:9-36:19
+	android:exported
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:31:13-51
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:33:13-35:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:34:17-84
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:34:25-81
+activity#com.example.mahe.moviesinfo.MovieDetail
+ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:38:9-58
+	android:name
+		ADDED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml:38:19-46
+uses-sdk
+INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mahe\.android\build-cache\c1e86f783b654e2d427fc18487bb12eca730fdd0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mahe\.android\build-cache\b64ac7cd5f44e95a4ce407dd4b5880489ec41c2b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mahe\.android\build-cache\bc691169cfd97fe03563fb96f172ca047c0fad41\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mahe\.android\build-cache\d5a1e22cbf311e059d3ae524954ebac29c765860\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Mahe\.android\build-cache\6a19436139efd91a56407b1fbe366c9a55637d73\output\AndroidManifest.xml:20:5-43
+MERGED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mahe\.android\build-cache\32f21ec938ecfcda6484f909ef2d00c602bbf262\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mahe\.android\build-cache\fd459f8b00adfbc2ee1717a7546def31bf7c64db\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mahe\.android\build-cache\2aa7a6a9743b0a2015959a19944d8f65cd0881eb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mahe\.android\build-cache\40552a4f1b079d578a2e71dda6a8cb485a1167fd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mahe\.android\build-cache\b9c56aa3d09800cb0eaad84e969d2c6722c3884a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mahe\.android\build-cache\3ba2401759b3638cb835b08d7844ccecdb56a4a6\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mahe\.android\build-cache\c1e86f783b654e2d427fc18487bb12eca730fdd0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mahe\Downloads\MoviesInfo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mahe\.android\build-cache\c1e86f783b654e2d427fc18487bb12eca730fdd0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mahe\.android\build-cache\b64ac7cd5f44e95a4ce407dd4b5880489ec41c2b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mahe\.android\build-cache\bc691169cfd97fe03563fb96f172ca047c0fad41\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mahe\.android\build-cache\32f21ec938ecfcda6484f909ef2d00c602bbf262\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mahe\.android\build-cache\fd459f8b00adfbc2ee1717a7546def31bf7c64db\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mahe\.android\build-cache\2aa7a6a9743b0a2015959a19944d8f65cd0881eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mahe\.android\build-cache\40552a4f1b079d578a2e71dda6a8cb485a1167fd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mahe\.android\build-cache\b9c56aa3d09800cb0eaad84e969d2c6722c3884a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mahe\.android\build-cache\3ba2401759b3638cb835b08d7844ccecdb56a4a6\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mahe\.android\build-cache\c1e86f783b654e2d427fc18487bb12eca730fdd0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mahe\.android\build-cache\c1e86f783b654e2d427fc18487bb12eca730fdd0\output\AndroidManifest.xml:26:9-47
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.5.0] C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\AndroidManifest.xml:37:25-84

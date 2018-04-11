@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\tmp\\MoviesInfo\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Mahe\\.android\\build-cache\\c1e86f783b654e2d427fc18487bb12eca730fdd0\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahe\.android\build-cache\a7b184f81e9d005a4ab5f92769e4ce01d6404a62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="C:\tmp\MoviesInfo\app\intermediates\pre-dexed\debug\classes_b95042a443a47817374a3ededf4ed24d86220787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahe\Downloads\MoviesInfo\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\tmp\MoviesInfo\app\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_9b09185812e6ee4f0d8ad3f32c796290b27ee08b.jar" />
+    </item>
+
+</items>
